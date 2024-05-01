@@ -37,3 +37,9 @@
 # vscode settings
 .vscode
 !.vscode/extensions.json
+
+# PlatformIO
+.pio
+
+# other .gitignore files
+**/.gitignore
