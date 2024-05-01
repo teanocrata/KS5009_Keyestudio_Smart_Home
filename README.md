@@ -13,6 +13,7 @@
     - [Button Principle](#button-principle)
     - [Pins of the Button](#pins-of-the-button)
     - [Project 2.1 Read the Button](pj2_1_button/README.md)
+    - [Project 2.2 Table Lamp](pj2_2_button_led/README.md)
 
 
 # Project 1: Control led
@@ -63,3 +64,5 @@ The button module is a digital sensor, which can oonly read 0 os 1. When the mod
 | Button 2 | 27 |
 
 ## [Project 2.1 Read the Button](pj2_1_button/README.md)
+
+## [Project 2.2 Table Lamp](pj2_2_button_led/README.md)

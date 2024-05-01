@@ -15,6 +15,10 @@
 		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
+		},
+		{
+			"name": "pj2_2_button_led",
+			"path": "pj2_2_button_led"
 		}
 	],
 	"settings": {},
