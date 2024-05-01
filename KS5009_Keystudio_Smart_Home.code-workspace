@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "pj1_1_led",
+			"path": "pj1_1_led"
+		},
+		{
+			"name": "pj1_2_breath_led",
+			"path": "pj1_2_breath_led"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
