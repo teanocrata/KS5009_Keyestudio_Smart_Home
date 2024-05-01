@@ -14,6 +14,10 @@
     - [Pins of the Button](#pins-of-the-button)
     - [Project 2.1 Read the Button](pj2_1_button/README.md)
     - [Project 2.2 Table Lamp](pj2_2_button_led/README.md)
+3. [Project 3: PIR Motion sensor]()
+    - [Description](#description-1)
+    - [Control Pin](#control-pin-1)
+    - [Project 3.1 Read the PIR Motion Sensor](pj3_1_pyroelectric/README.md) 
 
 
 # Project 1: Control led
@@ -66,3 +70,22 @@ The button module is a digital sensor, which can oonly read 0 os 1. When the mod
 ## [Project 2.1 Read the Button](pj2_1_button/README.md)
 
 ## [Project 2.2 Table Lamp](pj2_2_button_led/README.md)
+
+# Project 3: PIR Motion sensor
+
+## Description
+
+The PIR motion sensor has many application scenarios in daily life, sucho automatic inductioon lamp of stairs, automatic induction faucet of washbasing, etc.
+It is also a digiral sensor like buttons, which has two state values 0 or 1. And it will be sended when people are moving.
+
+It is also a digital sensor like buttons, which has two state values 0 or 1. And it will be sensed when people are moving.
+
+![PIR Motion Sensor](images/PIR%20Motion%20Sensor.png)
+
+## Control Pin
+
+| Pin | ID |
+| - | - |
+| PIR motion sensor | 14 |
+
+## [Project 3.1 Read the PIR Motion Sensor](pj3_1_pyroelectric/README.md)

@@ -13,12 +13,16 @@
 			"path": "pj2_1_button"
 		},
 		{
-			"name": "KS5009_Keyestudio Smart Home",
-			"path": "."
-		},
-		{
 			"name": "pj2_2_button_led",
 			"path": "pj2_2_button_led"
+		},
+		{
+			"name": "pj3_1_pyroelectric",
+			"path": "pj3_1_pyroelectric"
+		},
+		{
+			"name": "KS5009_Keyestudio Smart Home",
+			"path": "."
 		}
 	],
 	"settings": {},
