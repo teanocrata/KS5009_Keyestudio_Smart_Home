@@ -14,11 +14,16 @@
     - [Pins of the Button](#pins-of-the-button)
     - [Project 2.1 Read the Button](pj2_1_button/README.md)
     - [Project 2.2 Table Lamp](pj2_2_button_led/README.md)
-3. [Project 3: PIR Motion sensor]()
+3. [Project 3: PIR Motion sensor](#project-3-pir-motion-sensor)
     - [Description](#description-1)
     - [Control Pin](#control-pin-1)
     - [Project 3.1 Read the PIR Motion Sensor](pj3_1_pyroelectric/README.md)
     - [Project 3.2 PIR Motion Sensor](pj3_2_pyroelectric_led/README.md)
+4.  [Project 4: Play Music](#project-4-play-music)
+    - [Description](#description-2)
+    - [Component knowledge](#component-knowledge)
+    - [Control Pin](#control-pin-2)
+    - [Project 4.1 Play Happy Birthday](pj4_1_buzzer/README.md)
 
 
 # Project 1: Control led
@@ -92,3 +97,25 @@ It is also a digital sensor like buttons, which has two state values 0 or 1. And
 ## [Project 3.1 Read the PIR Motion Sensor](pj3_1_pyroelectric/README.md)
 
 ## [Project 3.2 PIR Motion Sensor](pj3_2_pyroelectric_led/README.md)
+
+# Project 4: Play Music
+
+## Description
+
+There is a audio power amplifier element in the car expansion board, wich is an external amplificatio equiipment to play music.
+
+In thiis project, we will work to play a piece of music by using it.
+
+## Component Knowledge
+
+**Pasive Buzzer:** The audio poower amplifier (like the passive buzzer) does not have internal oscillation. When controling we need to input squere waves of different frequencies to the poositive pole of the component and ground the negative pole to control the power amplifier to chiime sounds of different frequencies.
+
+![Passive Buzzer Module](images/Passive%20Buzzer%20Module.png)
+
+## Control Pin
+
+| Pin | ID |
+| - | - |
+| Passive Buzzer | 25 |
+
+## [Project 4.1 Play Happy Birthday](pj4_1_buzzer/README.md)
