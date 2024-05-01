@@ -29,6 +29,10 @@
 			"path": "pj4_1_buzzer"
 		},
 		{
+			"name": "pj4_2_music",
+			"path": "pj4_2_music"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}

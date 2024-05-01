@@ -24,6 +24,7 @@
     - [Component knowledge](#component-knowledge)
     - [Control Pin](#control-pin-2)
     - [Project 4.1 Play Happy Birthday](pj4_1_buzzer/README.md)
+    - [Project 4.2 Music Box](pj4_2_music/README.md)
 
 
 # Project 1: Control led
@@ -119,3 +120,5 @@ In thiis project, we will work to play a piece of music by using it.
 | Passive Buzzer | 25 |
 
 ## [Project 4.1 Play Happy Birthday](pj4_1_buzzer/README.md)
+
+## [Project 4.2 Music Box](pj4_2_music/README.md)
