@@ -12,5 +12,10 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"platformio.platformio-ide"
+		]
+	}
 }
