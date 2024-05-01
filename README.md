@@ -7,6 +7,7 @@
     - [Parameters](#parameters)
     - [Control pin](#control-pin)
     - [Project 1.1 LED Flashing](pj1_1_led/README.md)
+    - [Project 1.2 Breathing LED](pj1_2_breath_led/README.md)
 
 # Project 1: Control led
 
@@ -33,3 +34,5 @@ LED is also the light-emitting diode, whiich can be made into an electronic modu
 | Yellow LED | 12 |
 
 ## [Project 1.1 LED Flashing](pj1_1_led/README.md)
+
+## [Project 1.2 Breathing LED](pj1_2_breath_led/README.md)
