@@ -9,6 +9,11 @@
 			"path": "pj1_2_breath_led"
 		},
 		{
+			"name": "pj2_1_button",
+			"path": "pj2_1_button"
+		},
+		{
+			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}
 	],
