@@ -17,7 +17,8 @@
 3. [Project 3: PIR Motion sensor]()
     - [Description](#description-1)
     - [Control Pin](#control-pin-1)
-    - [Project 3.1 Read the PIR Motion Sensor](pj3_1_pyroelectric/README.md) 
+    - [Project 3.1 Read the PIR Motion Sensor](pj3_1_pyroelectric/README.md)
+    - [Project 3.2 PIR Motion Sensor](pj3_2_pyroelectric_led/README.md)
 
 
 # Project 1: Control led
@@ -89,3 +90,5 @@ It is also a digital sensor like buttons, which has two state values 0 or 1. And
 | PIR motion sensor | 14 |
 
 ## [Project 3.1 Read the PIR Motion Sensor](pj3_1_pyroelectric/README.md)
+
+## [Project 3.2 PIR Motion Sensor](pj3_2_pyroelectric_led/README.md)

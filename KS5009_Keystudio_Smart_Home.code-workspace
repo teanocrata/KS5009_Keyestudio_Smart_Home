@@ -21,6 +21,10 @@
 			"path": "pj3_1_pyroelectric"
 		},
 		{
+			"name": "pj3_2_pyroelectric_led",
+			"path": "pj3_2_pyroelectric_led"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}
