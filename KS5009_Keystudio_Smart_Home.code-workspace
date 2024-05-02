@@ -33,9 +33,14 @@
 			"path": "pj4_2_music"
 		},
 		{
+			"name": "pj5_1_servo",
+			"path": "pj5_1_servo"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}
+		
 	],
 	"settings": {},
 	"extensions": {
