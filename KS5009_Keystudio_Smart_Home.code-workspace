@@ -45,6 +45,10 @@
 			"path": "pj6_1_sk6812"
 		},
 		{
+			"name": "pj6_2_btn_6812",
+			"path": "pj6_2_btn_6812"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}

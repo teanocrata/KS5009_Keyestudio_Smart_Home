@@ -36,6 +36,7 @@
     - [Component Knowledge](#component-knowledge-2)
     - [Control Pin](#control-pin)
     - [Project 6.1 Control SK6812](pj6_1_sk6812/README.md)
+    - [Project 6.2 Button](pj6_2_btn_6812/README.md)
 
 
 # Project 1: Control led
@@ -200,3 +201,5 @@ What's more, the pixel point contains a data latch signal shaping amplifier driv
 | SK6812 | 26 |
 
 ## [Project 6.1 Control SK6812](pj6_1_sk6812/README.md)
+
+## [Project 6.2 Button](pj6_2_btn_6812/README.md)
