@@ -37,6 +37,12 @@
     - [Control Pin](#control-pin)
     - [Project 6.1 Control SK6812](pj6_1_sk6812/README.md)
     - [Project 6.2 Button](pj6_2_btn_6812/README.md)
+7. [Project 7: Fan](#project-7-fan)
+    - [Description](#description-5)
+    - [Component knowledge](#component-knowledge-3)
+    - [Control Method](#control-method)
+    - [Control Pins](#control-pins)
+    - [Project 7.1 Control the Fan](pj7_1_fan/README.md)
 
 
 # Project 1: Control led
@@ -203,3 +209,34 @@ What's more, the pixel point contains a data latch signal shaping amplifier driv
 ## [Project 6.1 Control SK6812](pj6_1_sk6812/README.md)
 
 ## [Project 6.2 Button](pj6_2_btn_6812/README.md)
+
+# Project 7: Fan
+
+## Description
+
+In this project, we wiill learn how to make a small fan.
+
+## Component knowledge
+
+The small fan uses a 130 DC motor and safe fan blades. You can use PWM output the fan speed.
+
+![Fan](images/Fan.png)
+
+## Control Method
+
+Two pins are required to control the motor of the fan, one for INA and two for INB. The PWM value range is 0~255. When the PWM output of the two pins is different, the fan can rotate.
+
+| Value | Action |
+| - | - |
+| INA - INB <= -45 | Rotate clockwise |
+| INA - INB >= 45 | Rotate anticlockwise |
+| INA == 0, INB == 0 | Stop |
+
+## Control Pins
+
+| Pin | ID |
+| - | - |
+| INA | 19 |
+| INB | 18 |
+
+## [Project 7.1 Control the Fan](pj7_1_fan/README.md)

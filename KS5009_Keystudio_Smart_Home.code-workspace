@@ -51,6 +51,10 @@
 		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
+		},
+		{
+			"name": "pj7_1_fan",
+			"path": "pj7_1_fan"
 		}
 	],
 	"settings": {},
