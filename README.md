@@ -31,6 +31,11 @@
     - [Control Pin](#control-pin-3)
     - [Project 5.1 Control the Door](pj5_1_servo/README.md)
     - [Project 5.2 Close the Window](pj5_2_Auto_window/README.md)
+6. [Project 6: Atmosphere Lamp](#project-6-atmosphere-lamp)
+    - [Description](#description-4)
+    - [Component Knowledge](#component-knowledge-2)
+    - [Control Pin](#control-pin)
+    - [Project 6.1 Control SK6812](pj6_1_sk6812/README.md)
 
 
 # Project 1: Control led
@@ -167,3 +172,31 @@ All pin numbers are allowed, but only pins 2,4,12-19,21-23,25-27,32-33 are recom
 ## [Project 5.1 Control the door](pj5_1_servo/README.md)
 
 ## [Project 5.2 Close the Window](pj5_2_Auto_window/README.md)
+
+# Project 6: Atmosphere Lamp
+
+## Description
+
+The atmosphere lamp of smart home is 4 SK6812RGB LEDs. RGB LED belongs too a simple luminous module, wich can adjust the color to bring out the lamp effect of different colors.
+
+Furthermore, it can be widely used in buildings, bridges, roads, gardens, courtyards, floors and other fields of decorative lighting and venue layout, Christmas, Halloween, Valentine's Day, Easter, Natioonal Day as well as other festivals during the atmosphere and other scenes.
+
+In this experiment, we will make various lighting effects.
+
+## Component Knowledge
+
+From the schematic diagram, we can see that these four RGB LEDs are all connected in series. In fact, no matter how many they are, we ca use a pin to control a RGB LED and let it display any color. Each RGBLED iis an independent pixel, composed of R, G and B colors, wich can achieve 256 levels of brightness display and complete the full true color display of 16777216 colors.
+
+What's more, the pixel point contains a data latch signal shaping amplifier drive circuit and a signal shaping circuit, which effectively ensures the color of the pixel point light is highly consistent.
+
+![RGB LED Schema](images/RGB%20LED%20Schema.png)
+
+![RGB LED](images/RGB%20LED.png)
+
+## Control Pin
+
+| Pin | ID |
+| - | - |
+| SK6812 | 26 |
+
+## [Project 6.1 Control SK6812](pj6_1_sk6812/README.md)
