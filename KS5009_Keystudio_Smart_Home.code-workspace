@@ -55,6 +55,10 @@
 		{
 			"name": "pj7_1_fan",
 			"path": "pj7_1_fan"
+		},
+		{
+			"name": "pj7_2_btn_fan",
+			"path": "pj7_2_btn_fan"
 		}
 	],
 	"settings": {},

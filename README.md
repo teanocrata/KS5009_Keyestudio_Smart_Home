@@ -43,6 +43,7 @@
     - [Control Method](#control-method)
     - [Control Pins](#control-pins)
     - [Project 7.1 Control the Fan](pj7_1_fan/README.md)
+    - [Project 7.2 Switch On or Off the Fan](pj7_2_btn_fan/README.md)
 
 
 # Project 1: Control led
@@ -240,3 +241,5 @@ Two pins are required to control the motor of the fan, one for INA and two for I
 | INB | 18 |
 
 ## [Project 7.1 Control the Fan](pj7_1_fan/README.md)
+
+## [Project 7.2 Switch On or Off the Fan](pj7_2_btn_fan/README.md)
