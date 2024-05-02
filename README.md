@@ -30,6 +30,7 @@
     - [Component knowledge](#component-knowledge-1)
     - [Control Pin](#control-pin-3)
     - [Project 5.1 Control the Door](pj5_1_servo/README.md)
+    - [Project 5.2 Close the Window](pj5_2_Auto_window/README.md)
 
 
 # Project 1: Control led
@@ -156,9 +157,13 @@ In general, servo has three lines in brown, red and orange. The brown wire is gr
 
 ## Control Pin
 
+All pin numbers are allowed, but only pins 2,4,12-19,21-23,25-27,32-33 are recommended.
+
 | Pin | ID |
 | - | - |
-| The servo of the window | 5 |
+| The servo of the window | 33 |
 | The servo of the door | 13 |
 
 ## [Project 5.1 Control the door](pj5_1_servo/README.md)
+
+## [Project 5.2 Close the Window](pj5_2_Auto_window/README.md)
