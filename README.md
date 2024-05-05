@@ -49,6 +49,7 @@
     - [Component Knowledge](#component-knowledge-4)
     - [Control Pins](#control-pins-1)
     - [Project 8.1 Display Characters](pj8_1_lcd/README.md)
+    - [Project 8.2 Dangerous Gas Alarm](pj8_2_gas_lcd/README.md)
 
 
 # Project 1: Control led
@@ -269,3 +270,5 @@ As we all know, screen is one of the best ways for people to interact with elect
 | SCL | SCL |
 
 ## [Project 8.1 Display Characters](pj8_1_lcd/README.md)
+
+## [Project 8.2 Dangerous Gas Alarm](pj8_2_gas_lcd/README.md)

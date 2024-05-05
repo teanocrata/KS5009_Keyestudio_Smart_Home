@@ -61,6 +61,10 @@
 			"path": "pj8_1_lcd"
 		},
 		{
+			"name": "pj8_2_gas_lcd",
+			"path": "pj8_2_gas_lcd"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}
