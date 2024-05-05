@@ -44,6 +44,11 @@
     - [Control Pins](#control-pins)
     - [Project 7.1 Control the Fan](pj7_1_fan/README.md)
     - [Project 7.2 Switch On or Off the Fan](pj7_2_btn_fan/README.md)
+8. [Project 8:LCD1602 Display](#project-8-lcd1602-display)
+    - [Description](#description-6)
+    - [Component Knowledge](#component-knowledge-4)
+    - [Control Pins](#control-pins-1)
+    - [Project 8.1 Display Characters](pj8_1_lcd/README.md)
 
 
 # Project 1: Control led
@@ -243,3 +248,24 @@ Two pins are required to control the motor of the fan, one for INA and two for I
 ## [Project 7.1 Control the Fan](pj7_1_fan/README.md)
 
 ## [Project 7.2 Switch On or Off the Fan](pj7_2_btn_fan/README.md)
+
+# Project 8: LCD1602 Display
+
+## Description
+
+As we all know, screen is one of the best ways for people to interact with electronics devices.
+
+## Component Knowledge
+
+1602 is a line tha can display 16 characters. There are wo lines, wich use IIC communication protocol.
+
+![LCD1602](images/LCD1602.png)
+
+## Control Pins
+
+| Pin | ID |
+| - | - |
+| SDA | SDA |
+| SCL | SCL |
+
+## [Project 8.1 Display Characters](pj8_1_lcd/README.md)

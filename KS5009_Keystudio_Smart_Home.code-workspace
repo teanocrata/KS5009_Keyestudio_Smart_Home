@@ -49,16 +49,20 @@
 			"path": "pj6_2_btn_6812"
 		},
 		{
-			"name": "KS5009_Keyestudio Smart Home",
-			"path": "."
-		},
-		{
 			"name": "pj7_1_fan",
 			"path": "pj7_1_fan"
 		},
 		{
 			"name": "pj7_2_btn_fan",
 			"path": "pj7_2_btn_fan"
+		},
+		{
+			"name": "pj8_1_lcd",
+			"path": "pj8_1_lcd"
+		},
+		{
+			"name": "KS5009_Keyestudio Smart Home",
+			"path": "."
 		}
 	],
 	"settings": {},
