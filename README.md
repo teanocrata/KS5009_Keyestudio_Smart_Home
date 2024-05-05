@@ -50,6 +50,10 @@
     - [Control Pins](#control-pins-1)
     - [Project 8.1 Display Characters](pj8_1_lcd/README.md)
     - [Project 8.2 Dangerous Gas Alarm](pj8_2_gas_lcd/README.md)
+9. [Project 9: Temperature and Humidity Sensor](#project-9-temperature-and-humidity-sensor)
+    - [Component Knowledge](#component-knowledge-5)
+    - [Control Pin](#control-pin-5)
+    - [Project 9.1 Temperature and Humidity Tester](pj9_1_XHT11/README.md)
 
 
 # Project 1: Control led
@@ -272,3 +276,21 @@ As we all know, screen is one of the best ways for people to interact with elect
 ## [Project 8.1 Display Characters](pj8_1_lcd/README.md)
 
 ## [Project 8.2 Dangerous Gas Alarm](pj8_2_gas_lcd/README.md)
+
+# Project 9: Temperature and Humidity Sensor
+
+## Component Knowledge
+
+Its communication mode is serial data and single bus. The temperature measurement range is -2 ~ +60, accuracy is +- 2. However, the humidity range is 5 ~ 95% RH, the accuracy is +-5% RH.
+
+![HumidityTemperature](images/HumidityTemperature.png)
+
+## Control Pin
+
+| Pin | ID |
+| - | - |
+| Temperature and Humidity Sensor | 17 |
+
+## [Project 9.1 Temperature and Humidity Tester](pj9_1_XHT11/README.md)
+
+# Project 10
