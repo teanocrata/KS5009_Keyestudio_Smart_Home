@@ -54,6 +54,10 @@
     - [Component Knowledge](#component-knowledge-5)
     - [Control Pin](#control-pin-5)
     - [Project 9.1 Temperature and Humidity Tester](pj9_1_XHT11/README.md)
+10. [Project 10: RFID RC522 Module](#project-10-rfid-rc522-module)
+    - [Component Knowledge](#component-knowledge-6)
+    - [Control Pins](#control-pins-3)
+    - [Project 10.1 Open the Door](pj10_1_RFID/README.md)
 
 
 # Project 1: Control led
@@ -293,4 +297,21 @@ Its communication mode is serial data and single bus. The temperature measuremen
 
 ## [Project 9.1 Temperature and Humidity Tester](pj9_1_XHT11/README.md)
 
-# Project 10
+# Project 10: RFID RC522 Module
+
+## Component Knowledge
+
+Radio frequency identification, the card reader is composed of a radio frequency module and a high-level magnetic field. The Tag transponder is a sensing device, which doesn't contain a battery. It only contains tiny integrated circuit chips and media for storing data and antennas for receiving and transmitting signals.
+
+To read the data is the tag, first put it into the reading range of the card reader. The reader will generate a magnetic field, which can produce electricity according to Lenz's law, then the RFID tag will supply power, thereby activating the device.
+
+## Control Pins
+
+Use IIC communication.
+
+| Pin | ID |
+| - | - |
+| SDA | SDA |
+| SCL | SCL |
+
+## [Project 10.1 Open the Door](pj10_1_RFID/README.md)
