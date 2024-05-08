@@ -73,6 +73,10 @@
 			"path": "pj10_1_RFID"
 		},
 		{
+			"name": "pj11_1_mosDoor",
+			"path": "pj11_1_mosDoor"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}

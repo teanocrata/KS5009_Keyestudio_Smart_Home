@@ -58,6 +58,8 @@
     - [Component Knowledge](#component-knowledge-6)
     - [Control Pins](#control-pins-3)
     - [Project 10.1 Open the Door](pj10_1_RFID/README.md)
+11. [Project 11: Morse Code](#project-11-morse-code)
+    - [Project 11.1 Morse Code Open the Door](pj11_1_mosDoor/README.md)
 
 
 # Project 1: Control led
@@ -315,3 +317,13 @@ Use IIC communication.
 | SCL | SCL |
 
 ## [Project 10.1 Open the Door](pj10_1_RFID/README.md)
+
+
+# Project 11: Morse Code
+
+Morse code, also known as Morse password, is an on-again, off-again signal code that expresses different letters, numbers, and punctuation marks in different sequences. Now we use it as our password gate.
+The Morse code corresponds to the following characters:
+
+![Morse code](images/Morse%20code.png)
+
+## [Project 11.1 Morse Code Open the Door](pj11_1_mosDoor/README.md)
