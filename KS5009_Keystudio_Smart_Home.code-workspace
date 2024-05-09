@@ -77,6 +77,10 @@
 			"path": "pj11_1_mosDoor"
 		},
 		{
+			"name": "pj12_1_wifi_test",
+			"path": "pj12_1_wifi_test"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}

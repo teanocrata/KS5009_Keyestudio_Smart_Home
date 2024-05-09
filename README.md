@@ -60,7 +60,8 @@
     - [Project 10.1 Open the Door](pj10_1_RFID/README.md)
 11. [Project 11: Morse Code](#project-11-morse-code)
     - [Project 11.1 Morse Code Open the Door](pj11_1_mosDoor/README.md)
-
+12. [Project 12: WiFi](#project-12-wifi)
+    - [Project 12.1 Smart Home](pj12_1_wifi_test/README.md)
 
 # Project 1: Control led
 
@@ -327,3 +328,11 @@ The Morse code corresponds to the following characters:
 ![Morse code](images/Morse%20code.png)
 
 ## [Project 11.1 Morse Code Open the Door](pj11_1_mosDoor/README.md)
+
+# Project 12: WiFi
+
+The easiest way to access the Internet is to use a WiFi to connect. The ESP32 main control board comes with a WiFi module, making our smart home accessible to the Internet easily.
+
+![WiFi](images/WiFi.png)
+
+## [Project 12.1 Smart Home](pj12_1_wifi_test/README.md)
