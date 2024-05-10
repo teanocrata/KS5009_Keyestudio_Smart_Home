@@ -43,3 +43,6 @@
 
 # other .gitignore files
 **/.gitignore
+
+#Credentials
+**/credentials.h
