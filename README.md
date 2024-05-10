@@ -67,6 +67,7 @@
     - [Download APP](#download-app)
     - [APP Interface](#app-interface)
     - [Project 13.1 Test APP](pj13_1_app_test/README.md)
+    - [Project 13.2 IoT Smart Home](pj13_2_IoT_smart_home/README.md)
 
 # Project 1: Control led
 
@@ -355,8 +356,14 @@ Icon:
 
 ![Icon](images/Icon.png)
 
+### Download iOS APP
+
+Please search for keyes IoT home on APP Store to download it. 
+
 ## APP Interface
 
 ![APP interface](images/APP%20interface.png)
 
 ## [Project 13.1 Test APP](pj13_1_app_test/README.md)
+
+## [Project 13.2 IoT Smart Home](pj13_2_IoT_smart_home/README.md)

@@ -89,6 +89,10 @@
 			"path": "pj13_1_app_test"
 		},
 		{
+			"name": "pj13_2_IoT_smart_home",
+			"path": "pj13_2_IoT_smart_home"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}
