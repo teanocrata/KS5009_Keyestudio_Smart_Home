@@ -85,6 +85,10 @@
 			"path": "pj12_2_wifi_led"
 		},
 		{
+			"name": "pj13_1_app_test",
+			"path": "pj13_1_app_test"
+		},
+		{
 			"name": "KS5009_Keyestudio Smart Home",
 			"path": "."
 		}

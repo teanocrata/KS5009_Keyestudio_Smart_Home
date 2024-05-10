@@ -63,6 +63,10 @@
 12. [Project 12: WiFi](#project-12-wifi)
     - [Project 12.1 Smart Home](pj12_1_wifi_test/README.md)
     - [Project 12.2 Control Smart Home](pj12_2_wifi_led/README.md)
+13. [Project 13: Mobile Phone APP](#project-13-mobile-phone-app)
+    - [Download APP](#download-app)
+    - [APP Interface](#app-interface)
+    - [Project 13.1 Test APP](pj13_1_app_test/README.md)
 
 # Project 1: Control led
 
@@ -339,3 +343,20 @@ The easiest way to access the Internet is to use a WiFi to connect. The ESP32 ma
 ## [Project 12.1 Smart Home](pj12_1_wifi_test/README.md)
 
 ## [Project 12.2 Control Smart Home](pj12_2_wifi_led/README.md)
+
+# Project 13: Mobile Phone APP
+
+## Download APP
+
+### Download from Google play
+
+Please search for keyes IoT home on Google play to download it.  
+Icon:  
+
+![Icon](images/Icon.png)
+
+## APP Interface
+
+![APP interface](images/APP%20interface.png)
+
+## [Project 13.1 Test APP](pj13_1_app_test/README.md)
