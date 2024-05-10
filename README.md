@@ -62,6 +62,7 @@
     - [Project 11.1 Morse Code Open the Door](pj11_1_mosDoor/README.md)
 12. [Project 12: WiFi](#project-12-wifi)
     - [Project 12.1 Smart Home](pj12_1_wifi_test/README.md)
+    - [Project 12.2 Control Smart Home](pj12_2_wifi_led/README.md)
 
 # Project 1: Control led
 
@@ -336,3 +337,5 @@ The easiest way to access the Internet is to use a WiFi to connect. The ESP32 ma
 ![WiFi](images/WiFi.png)
 
 ## [Project 12.1 Smart Home](pj12_1_wifi_test/README.md)
+
+## [Project 12.2 Control Smart Home](pj12_2_wifi_led/README.md)
