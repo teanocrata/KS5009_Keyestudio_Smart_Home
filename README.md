@@ -1,6 +1,6 @@
 # KS5009_Keyestudio_Smart_Home
 
-## Table of Contents
+## Table of Contents <!-- {docsify-ignore} -->
 
 1. [Project 1: Control led](#project-1-control-led)
     - [Working principle](#working-principle)
