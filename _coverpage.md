@@ -1,6 +1,9 @@
 <!-- _coverpage.md -->
 
-![logo](images/Icon.png)
+<figure>
+    <img src="images/Icon.png" alt="logo"  width="20%" height="20%">
+    <figcaption>logo.</figcaption>
+</figure>
 
 # KS5009 Key Studio Smart Home<small>customized</small>
 

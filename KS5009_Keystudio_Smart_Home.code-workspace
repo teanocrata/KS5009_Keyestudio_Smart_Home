@@ -1,96 +1,96 @@
 {
 	"folders": [
 		{
-			"name": "pj1_1_led",
-			"path": "pj1_1_led"
+			"name": "Project 1: Control led",
+			"path": "project01/pj1_1_led"
 		},
 		{
-			"name": "pj1_2_breath_led",
-			"path": "pj1_2_breath_led"
+			"name": "Project 1.2 Breathing LED",
+			"path": "project01/pj1_2_breath_led"
 		},
 		{
-			"name": "pj2_1_button",
-			"path": "pj2_1_button"
+			"name": "Project 2.1 Read the Butoon",
+			"path": "project02/pj2_1_button"
 		},
 		{
-			"name": "pj2_2_button_led",
-			"path": "pj2_2_button_led"
+			"name": "Project 2.2 Table Lamp",
+			"path": "project02/pj2_2_button_led"
 		},
 		{
-			"name": "pj3_1_pyroelectric",
-			"path": "pj3_1_pyroelectric"
+			"name": "Project 3.1 Read the PIR Motion Sensor",
+			"path": "project03/pj3_1_pyroelectric"
 		},
 		{
-			"name": "pj3_2_pyroelectric_led",
-			"path": "pj3_2_pyroelectric_led"
+			"name": "Project 3.2 PIR Motion Sensor",
+			"path": "project03/pj3_2_pyroelectric_led"
 		},
 		{
-			"name": "pj4_1_buzzer",
-			"path": "pj4_1_buzzer"
+			"name": "Project 4.1 Play Happy Birthday",
+			"path": "project04/pj4_1_buzzer"
 		},
 		{
-			"name": "pj4_2_music",
-			"path": "pj4_2_music"
+			"name": "Project 4.2 Music Box",
+			"path": "project04/pj4_2_music"
 		},
 		{
-			"name": "pj5_1_servo",
-			"path": "pj5_1_servo"
+			"name": "Project 5.1 Control the door",
+			"path": "project05/pj5_1_servo"
 		},
 		{
-			"name": "pj5_2_Auto_window",
-			"path": "pj5_2_Auto_window"
+			"name": "Project 5.2 Close the Window",
+			"path": "project05/pj5_2_Auto_window"
 		},
 		{
-			"name": "pj6_1_sk6812",
-			"path": "pj6_1_sk6812"
+			"name": "Project 6.1 Control SK6812",
+			"path": "project06/pj6_1_sk6812"
 		},
 		{
-			"name": "pj6_2_btn_6812",
-			"path": "pj6_2_btn_6812"
+			"name": "Project 6.2 Button",
+			"path": "project06/pj6_2_btn_6812"
 		},
 		{
-			"name": "pj7_1_fan",
-			"path": "pj7_1_fan"
+			"name": "Project 7.1 Control the Fan",
+			"path": "project7/pj7_1_fan"
 		},
 		{
-			"name": "pj7_2_btn_fan",
-			"path": "pj7_2_btn_fan"
+			"name": "Project 7.2 Switch On or Off the Fan",
+			"path": "project07/pj7_2_btn_fan"
 		},
 		{
-			"name": "pj8_1_lcd",
-			"path": "pj8_1_lcd"
+			"name": "Project 8.1 Diisplay Characters",
+			"path": "project08/pj8_1_lcd"
 		},
 		{
-			"name": "pj8_2_gas_lcd",
-			"path": "pj8_2_gas_lcd"
+			"name": "Project 8.2 Dangerous Gas Alarm",
+			"path": "project8/pj8_2_gas_lcd"
 		},
 		{
-			"name": "pj9_1_XHT11",
-			"path": "pj9_1_XHT11"
+			"name": "Project 9.1 Temperature and Humidity Tester",
+			"path": "project9/pj9_1_XHT11"
 		},
 		{
-			"name": "pj10_1_RFID",
-			"path": "pj10_1_RFID"
+			"name": "Project 10: RFID RC522 Module",
+			"path": "project10/pj10_1_RFID"
 		},
 		{
-			"name": "pj11_1_mosDoor",
-			"path": "pj11_1_mosDoor"
+			"name": "Project 11.1 Morse Code Open the Door",
+			"path": "project11/pj11_1_mosDoor"
 		},
 		{
-			"name": "pj12_1_wifi_test",
-			"path": "pj12_1_wifi_test"
+			"name": "Project 12.1 Smart Home",
+			"path": "project12/pj12_1_wifi_test"
 		},
 		{
-			"name": "pj12_2_wifi_led",
-			"path": "pj12_2_wifi_led"
+			"name": "Project 12.2 Control Smart Home",
+			"path": "project12/pj12_2_wifi_led"
 		},
 		{
-			"name": "pj13_1_app_test",
-			"path": "pj13_1_app_test"
+			"name": "Project 13.1 Test APP",
+			"path": "project13/pj13_1_app_test"
 		},
 		{
-			"name": "pj13_2_IoT_smart_home",
-			"path": "pj13_2_IoT_smart_home"
+			"name": "Project 13.2 IoT Smart Home",
+			"path": "project13/pj13_2_IoT_smart_home"
 		},
 		{
 			"name": "KS5009_Keyestudio Smart Home",
