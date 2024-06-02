@@ -20,6 +20,6 @@ You need to create a new file at [include/credentials.h](include/credentials.h) 
 ## Test result
 
 <figure>
-    <img src="/project13/pj13_2_IoT_smart_home/images/App.png" alt="App"  width="60%" height="60%">
+    <img src="project13/pj13_2_IoT_smart_home/images/App.png" alt="App"  width="60%" height="60%">
     <figcaption>App.</figcaption>
 </figure>

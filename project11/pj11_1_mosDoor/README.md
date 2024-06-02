@@ -2,7 +2,7 @@
 
 ## Description
 
-We use <img src="/project11/pj11_1_mosDoor/images/K.png" alt="Morse symbol K" height="16"> as the correct password. What’s more, there is a button library file OneButton, which is very simple to click, double click, long press and other functions. For Morse password, click is“.”, long press and release is “-”.
+We use <img src="project11/pj11_1_mosDoor/images/K.png" alt="Morse symbol K" height="16"> as the correct password. What’s more, there is a button library file OneButton, which is very simple to click, double click, long press and other functions. For Morse password, click is“.”, long press and release is “-”.
 
 ## Test code
 

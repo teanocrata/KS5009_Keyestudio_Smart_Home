@@ -12,7 +12,7 @@ We will work to read the stetus value of eht button and display it on the serial
 
 Upload and monitor to get the results in the terminal 
 <figure>
-    <img src="/project02/pj2_1_button/images/Terminal.png"
+    <img src="project02/pj2_1_button/images/Terminal.png"
          alt="Terminal output"  width="80%" height="80%">
     <figcaption>Terminal output.</figcaption>
 </figure>

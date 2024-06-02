@@ -21,7 +21,7 @@ You need to create a new file at [include/credentials.h](include/credentials.h) 
 1. Open the APP and select WIFI
 
 <figure>
-    <img src="/project13/pj13_1_app_test/images/Select%20WIFI.png" alt="Select WiFi"  width="40%" height="40%">
+    <img src="project13/pj13_1_app_test/images/Select%20WIFI.png" alt="Select WiFi"  width="40%" height="40%">
     <figcaption>Select WiFi.</figcaption>
 </figure>
 
@@ -32,6 +32,6 @@ APP input IP address (LCD1602 displays the assigned IP address), then click conn
 Next, you can click the LED, then the smart home LED will be turned on. Click the fan button and the fan will be turned on, as shown below: 
 
 <figure>
-    <img src="/project13/pj13_1_app_test/images/App%20config.png" alt="App config"  width="50%" height=50%">
+    <img src="project13/pj13_1_app_test/images/App%20config.png" alt="App config"  width="50%" height=50%">
     <figcaption>App config.</figcaption>
 </figure>

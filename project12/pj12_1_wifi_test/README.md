@@ -21,13 +21,13 @@ You need to create a new file at [include/credentials.h](include/credentials.h) 
 If the WiFi is connected successfully, the serial monitor will print out the assigned IP address.  
 
 <figure>
-    <img src="/project12/pj12_1_wifi_test/images/Connected%20WiFi.png" alt="Connected WiFi"  width="80%" height="80%">
+    <img src="project12/pj12_1_wifi_test/images/Connected%20WiFi.png" alt="Connected WiFi"  width="80%" height="80%">
     <figcaption>Connected WiFi.</figcaption>
 </figure>
 
 Open a browser to access the IP address, then we will read the contents of the string S sent out by the client.println(s); in the code.
 
 <figure>
-    <img src="/project12/pj12_1_wifi_test/images/Server%20content.jpg" alt="Access from phone" width="50%" height="50%">
+    <img src="project12/pj12_1_wifi_test/images/Server%20content.jpg" alt="Access from phone" width="50%" height="50%">
     <figcaption>Access from phone.</figcaption>
 </figure>

@@ -6,7 +6,7 @@ A "breathing LED" is a phenomenoon where an LED's brightness smoothly changes fr
 It makes sense to take advantage of PWM. Output the number of high level in unit time, the more time the high level occupies, the larger the PWM value, the brighter the LED.
 
 <figure>
-    <img src="/project01/pj1_2_breath_led/images/Pulse%20with%20modulation.png"
+    <img src="project01/pj1_2_breath_led/images/Pulse%20with%20modulation.png"
          alt="Pulse with modulation"  width="80%" height="80%">
     <figcaption>Pulse with modulation.</figcaption>
 </figure>
