@@ -9,6 +9,14 @@ For example, we can use RFID to open the door. In addition, the kitchen is equip
 
 In this connection, we seek to launch this smart home product with ESP32 control, which has a host of sensors and modules as well as networking function, making the relevant knowledge of the Internet more accessible to you.
 
+## Get started with vscode and PlatformIO
+
+When you get control board, you need an IDE to write code and manage it and a driver. You can use [Arduino IDE](https://www.arduino.cc/en/software) or other like Visual Sudio Code. In this documentation we'll use [Visual Studio Code](https://code.visualstudio.com/) with the [PlatformIO](https://platformio.org/) extension to work with the board.
+
+You can find documentation about how to install VS Code for your platform and configure the toool set for your development need in the oficial [Visual Studio Code documentation](https://code.visualstudio.com/docs/setup/setup-overview).
+
+Then you can download the PlatformIO IDE from its page following its [documentation](https://docs.platformio.org/en/latest/integration/ide/vscode.html#ide-vscode) or you cand find it in vscode extension marketplace.
+
 ## Tutorials
 
 You can find one project for each component to learn how it works and make things happen.
