@@ -3,6 +3,9 @@ on:
   push:
   pull_request:
   workflow_dispatch:
+permissions:
+  contents: read
+  pull-requests: write
 jobs:
   scan:
     runs-on: ubuntu-latest
